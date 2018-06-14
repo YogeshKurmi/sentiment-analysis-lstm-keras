@@ -37,7 +37,7 @@ def predict():
 		out = model.predict(x)
 		print(out)
 		print(np.argmax(out,axis=1))
-		print "debug3"
+		print ("debug3")
 		response = np.array_str(np.argmax(out,axis=1))
 		return response	
 	
