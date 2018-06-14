@@ -6,4 +6,4 @@ An LSTM network is an artificial neural network that contains LSTM units instead
 # Let's Play!
 
 
-Use the notebook file(playground.ipynb) to play with the model. Working on the Flask Webapp. Will update soon (Sorry, No time :P)
+Use the notebook file(playground.ipynb) to play with the model. Working on the Flask Webapp. Will update soon...
